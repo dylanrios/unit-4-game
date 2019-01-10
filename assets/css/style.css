@@ -1,0 +1,63 @@
+body {
+    background: url("https://images.pexels.com/photos/433108/pexels-photo-433108.jpeg?cs=srgb&dl=blue-blur-close-up-433108.jpg&fm=jpg");
+    background-size: 100%;
+
+}
+
+.crystalimages {
+
+    width: 150px;
+    height: 150px;
+
+
+}
+
+#gametitle {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: teal;
+    color: aquamarine;
+    opacity: .9;
+    width: 30%;
+    text-align: center;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#gamedescription {
+    background-color: teal;
+    color: aquamarine;
+    opacity: .9;
+    width: 75%;
+}
+
+#randomnumbercontainer {
+    background-color: teal;
+    width: 5%;
+    text-align: center;
+    color: aquamarine;
+
+}
+
+#winlosscontainer {
+    background-color: teal;
+    width: 10%;
+    text-align: center;
+    color: aquamarine;
+
+}
+
+#totalscore {
+    background-color: teal;
+    width: 10%;
+    text-align: center;
+    color: aquamarine;
+}
+
+#totalscoretext {
+    background-color: teal;
+    width: 10%;
+    text-align: center;
+    color: aquamarine;
+}
